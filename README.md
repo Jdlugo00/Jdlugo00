@@ -37,4 +37,4 @@ A Cloudflare Worker that turns Square POS stock counts into a Telegram shopping 
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/justin-lugo-4988b8206)
+[LinkedIn](https://www.linkedin.com/in/justin-lugo-4988b8206)
