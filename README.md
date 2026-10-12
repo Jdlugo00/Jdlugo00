@@ -1,6 +1,6 @@
 # Hi, I'm Justin 👋
 
-IT Service Desk Technician at an enterprise law firm in South Florida, supporting 1,500+ attorneys and staff across 10 offices. I'm working toward desktop support and systems administration, with a long-term focus on security.
+IT Service Desk Technician at an enterprise law firm in South Florida, supporting 1,500+ attorneys and staff across 10 offices. I'm working toward development and systems administration, with a long-term focus on security.
 
 ## What I do
 
@@ -32,7 +32,8 @@ A Cloudflare Worker that turns Square POS stock counts into a Telegram shopping 
 ## Currently working on
 
 - Security+ certification
-- ServiceNow Administrator Cerification 
+- ServiceNow Administrator Cerification
+- Learning development and different coding languages like Python
 - Projects that can prove useful to IT techs worldwide!
 
 ## Connect
