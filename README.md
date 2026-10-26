@@ -1,29 +1,38 @@
-Hi, I'm Justin 👋
+# Hi, I'm Justin 👋
 
 IT Service Desk Technician at an enterprise law firm in South Florida, supporting 1,500+ attorneys and staff across 10 offices. I'm working toward development and systems administration, with a long-term focus on security.
 
-What I do
-Endpoint troubleshooting across Windows 11, Microsoft 365, Outlook, among other applications
-Imaging and OS deployment with Tanium
-Desk-side and on-site hardware support
-170 to 200 ServiceNow tickets a month, zero SLA breaches in over a year
-Escalation and coordination with Infrastructure, email security, and Compliance teams
-Featured projects
+## What I do
 
-endpoint-diagnostics A PowerShell tool that checks a Windows endpoint's disk, network, security, services, event logs, and pending reboots, then grades each check and produces a color-coded HTML report. Built to cut the first 10 to 15 minutes of manual triage on a support ticket.
+- Endpoint troubleshooting across Windows 11, Microsoft 365, Outlook, among other applications
+- Imaging and OS deployment with Tanium
+- Desk-side and on-site hardware support
+- 170 to 200 ServiceNow tickets a month, zero SLA breaches in over a year
+- Escalation and coordination with Infrastructure, email security, and Compliance teams
 
-Tools and technologies
+## Featured projects
 
-Endpoint and admin: Windows 11, Microsoft 365, Tanium, Linux, ServiceNow, Adaxes, Mimecast, PowerShell, Intune Networking and security: TCP/IP, DNS, DHCP, Wireshark, Splunk, Nessus Development: JavaScript, Cloudflare Workers, REST APIs, webhooks, Git
+**[endpoint-diagnostics](https://github.com/Jdlugo00/endpoint-diagnostics)**
+A PowerShell tool that checks a Windows endpoint's disk, network, security, services, event logs, and pending reboots, then grades each check and produces a color-coded HTML report. Built to cut the first 10 to 15 minutes of manual triage on a support ticket.
 
-Certifications
-CompTIA Network+
-TryHackMe training
-Currently working on
-Security+ certification
-ServiceNow Administrator Certification
-Learning development and different coding languages like Python
-Projects that can prove useful to IT techs worldwide!
-Connect
+## Tools and technologies
 
-LinkedIn
+**Endpoint and admin:** Windows 11, Microsoft 365, Tanium, Linux, ServiceNow, Adaxes, Mimecast, PowerShell, Intune
+**Networking and security:** TCP/IP, DNS, DHCP, Wireshark, Splunk, Nessus
+**Development:** JavaScript, Cloudflare Workers, REST APIs, webhooks, Git
+
+## Certifications
+
+- CompTIA Network+
+- TryHackMe training
+
+## Currently working on
+
+- Security+ certification
+- ServiceNow Administrator Certification
+- Learning development and different coding languages like Python
+- Projects that can prove useful to IT techs worldwide!
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/justin-lugo-4988b8206)
